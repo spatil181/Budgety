@@ -1,5 +1,6 @@
 // BUDGET CONTROLLER
-//CHANGE 1
+//CHANGE1
+//CHANGE2
 var budgetController = (function() {
     
     var Expense = function(id, description, value) {
