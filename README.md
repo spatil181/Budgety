@@ -1,1 +1,2 @@
-This is a simple app which was desgined to help implement the fundementals of JavaScript, HTML and CSS to design an application with some real world utility.
+ABOUT THE PROJECT:-
+A simple project to implement the basics of JavaScript, HTML and CSS to build an application with some real world utility. This is a simple budgeting app which keeps track of expenses, income and your overall balance.
